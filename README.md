@@ -1,5 +1,5 @@
 # Project Docs:
-# User Stories:
+  # User Stories:
 * As a user I want to be able to send an invitation to other people who I can see.
   * As a user I want to be able to invite one other person out to coffee.
   * As a leader of an organization I want to be able to invite everyone in a meeting to lunch.
@@ -8,3 +8,7 @@
   * As a user I want to be able to alert people in the immediate vicinity that I am in danger.
   * As a user I want to be able to alert people of a fire.
 * As a user I want to able to receive invitations from other users.
+* As a store owner I want to be able to inform users of current sales.
+  * As a bar owner I want to be able to inform users of bar events.
+* As a community organizer I want to be able to alert people that there is a rally coming together.
+* As a highschooler I want to be able to invite my friends to a party.
