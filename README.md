@@ -16,3 +16,8 @@
   * As a user I want to be able to see events dropped down by other users within the same area.
 * As a user I want to be able to tell everyone that I've lost my pet.
   * As a user I want to be able to tell everyone that I have a gig going on.
+  
+  <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+            </embed>
+</object>
