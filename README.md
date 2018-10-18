@@ -17,7 +17,5 @@
 * As a user I want to be able to tell everyone that I've lost my pet.
   * As a user I want to be able to tell everyone that I have a gig going on.
   
-  <object data="https://rawcdn.githack.com/ProjectLocus/ProjectDocs/master/GetTogether_wireframe.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://rawcdn.githack.com/ProjectLocus/ProjectDocs/master/GetTogether_wireframe.pdf">
-            </embed>
-</object>
+  # Wire Frames:
+  https://rawcdn.githack.com/ProjectLocus/ProjectDocs/master/GetTogether_wireframe.pdf
