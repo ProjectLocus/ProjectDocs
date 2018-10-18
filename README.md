@@ -19,3 +19,4 @@
   
   # Wire Frames:
  <a href="https://rawcdn.githack.com/ProjectLocus/ProjectDocs/master/GetTogether_wireframe.pdf">Wire Frames</a> for Get Together.
+ <img src="https://rawcdn.githack.com/ProjectLocus/ProjectDocs/master/GetTogether_wireframe.pdf">
