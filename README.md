@@ -12,3 +12,5 @@
   * As a bar owner I want to be able to inform users of bar events.
 * As a community organizer I want to be able to alert people that there is a rally coming together.
 * As a highschooler I want to be able to invite my friends to a party.
+* As a user I want to be able to drop down an event in an area for people to see within that aare.
+  * As a user I want to be able to see events dropped down by other users within the same area.
