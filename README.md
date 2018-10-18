@@ -14,3 +14,5 @@
 * As a highschooler I want to be able to invite my friends to a party.
 * As a user I want to be able to drop down an event in an area for people to see within that aare.
   * As a user I want to be able to see events dropped down by other users within the same area.
+* As a user I want to be able to tell everyone that I've lost my pet.
+  * As a user I want to be able to tell everyone that I have a gig going on.
