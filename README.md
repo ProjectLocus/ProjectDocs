@@ -18,4 +18,4 @@
   * As a user I want to be able to tell everyone that I have a gig going on.
   
   # Wire Frames:
-  https://rawcdn.githack.com/ProjectLocus/ProjectDocs/master/GetTogether_wireframe.pdf
+ <a href="https://rawcdn.githack.com/ProjectLocus/ProjectDocs/master/GetTogether_wireframe.pdf">Get Together's Wire Frames>/a>
