@@ -1,5 +1,5 @@
 # Project Docs:
-  # User Stories:
+# User Stories:
 * As a user I want to be able to send an invitation to other people who I can see.
   * As a user I want to be able to invite one other person out to coffee.
   * As a leader of an organization I want to be able to invite everyone in a meeting to lunch.
