@@ -19,3 +19,6 @@
   
   # Wire Frames:
  <a href="https://rawcdn.githack.com/ProjectLocus/ProjectDocs/master/GetTogether_wireframe.pdf">Wire Frames</a> for Get Together.
+ 
+ # Project Locus ERD
+ <img alt="ERD" src="https://rawcdn.githack.com/ProjectLocus/ProjectDocs/868270a093747c8e8ac1fea1370796c51df704be/ProLocusErd.png">
