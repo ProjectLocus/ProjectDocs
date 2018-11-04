@@ -24,8 +24,8 @@
  <img alt="ERD" src="https://rawcdn.githack.com/ProjectLocus/ProjectDocs/868270a093747c8e8ac1fea1370796c51df704be/ProLocusErd.png">
 
 # Naming Conventions
-Same as in-class naming conventions.
-For views:  typeabbrev_fragmentname_viewname#
- The numbers at the end, start at 0 and go up from there.
- E.g. textview for a title in an xml called main_menu_fragment
- name the view:  tv_main_menu_title0
+* Same as in-class naming conventions.
+* For views:  typeabbrev_fragmentname_viewname#
+  * The numbers at the end, start at 0 and go up from there.
+  * E.g. textview for a title in an xml called main_menu_fragment
+  * name the view:  tv_main_menu_title0
