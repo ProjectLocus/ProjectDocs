@@ -1,4 +1,6 @@
 # Project Docs:
+Contains various files related to JoinMe.  All important documentation for JoinMe can be found in other repositories and this repository should be disregarded.  [Please refer to our pages](https://projectlocus.github.io/join_me_backend/) 
+
 # User Stories:
 * As a user I want to be able to send an invitation to other people who I can see.
   * As a user I want to be able to invite one other person out to coffee.
